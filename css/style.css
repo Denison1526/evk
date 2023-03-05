@@ -142,7 +142,7 @@ h1,h2,h3,h4,p,ul{
 }
 
 .link__arrow{
-  background: url('/img/link_arrow.svg') right center no-repeat;
+  background: url('/evk/img/link_arrow.svg') right center no-repeat;
   background-size: 11px;
   padding-right: 20px;
   color: #FFCC66;
@@ -481,7 +481,7 @@ h1,h2,h3,h4,p,ul{
   position: absolute;
   height: 95%;
   width: 100%;
-  background: url(/img/1024/Rectangle\ 2.png) 0 0/auto 100% no-repeat;
+  background: url(/evk/img/1024/Rectangle\ 2.png) 0 0/auto 100% no-repeat;
 }
 
 .about__column {
@@ -568,11 +568,11 @@ h1,h2,h3,h4,p,ul{
 }
 
 .card:first-child .card__body::before {
-  background: url(/img/1024/Frame\ 16.png) 0 0/contain no-repeat;
+  background: url(/evk/img/1024/Frame\ 16.png) 0 0/contain no-repeat;
 }
 
 .card:last-child .card__body::after {
-  background: url(/img/1024/Frame\ 12.png) 0 0/contain no-repeat;
+  background: url(/evk/img/1024/Frame\ 12.png) 0 0/contain no-repeat;
 }
 
 .card__image {
@@ -683,7 +683,7 @@ h1,h2,h3,h4,p,ul{
   color:  black;
 }
 .how-slide__picture{
-  background: url(/img/Rectangle\ 18.jpg)center center no-repeat;
+  background: url(/evk/img/Rectangle\ 18.jpg)center center no-repeat;
   background-size: cover;
   width: 900px;
   max-width: 50%;
@@ -693,7 +693,7 @@ h1,h2,h3,h4,p,ul{
   margin-left: 2px;
 }
 .how-slide__picture2{
-  background: url(/img/руки.jpg)center center no-repeat;
+  background: url(/evk/img/руки.jpg)center center no-repeat;
   background-size: cover;
   width: 900px;
   max-width: 50%;
@@ -703,7 +703,7 @@ h1,h2,h3,h4,p,ul{
   margin-left: 2px;
 }
 .how-slide__picture3{
-  background: url(/img/Rectangle\ 19.jpg)center center no-repeat;
+  background: url(/evk/img/Rectangle\ 19.jpg)center center no-repeat;
   background-size: cover;
   width: 900px;
   max-width: 50%;
@@ -713,7 +713,7 @@ h1,h2,h3,h4,p,ul{
   margin-left: 2px;
 }
 .how-slide__picture4{
-  background: url(/img/Rectangle\ 20.jpg)center center no-repeat;
+  background: url(/evk/img/Rectangle\ 20.jpg)center center no-repeat;
   background-size: cover;
   width: 900px;
   max-width: 50%;
@@ -1025,7 +1025,7 @@ outline-offset: 5px;
 }
 .custom-checkbox:checked+label::before {
   border: 1px solid #CACACA;
-  background-image: url("/img/стрелка.jpg");
+  background-image: url("/evk/img/стрелка.jpg");
   background-size: contain;
 }
 .footer__col{
